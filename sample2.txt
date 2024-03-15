@@ -1,4 +1,6 @@
 THis is another file created. 
 
-THis is new content added on the main/master branch. 
 
+Added some content using the quickUpdates branch. 
+Some additional lines are getting 
+inserted though this branch. 
